@@ -67,7 +67,7 @@ Python exercises and scripts created while developing my programming and test au
 
 ### 📫 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/cherelyn-alvarez/]
+LinkedIn: [Cherelyn Alvarez](https://www.linkedin.com/in/cherelyn-alvarez/)
 
 Email: [cherelynsalvarez@gmail.com]
 
