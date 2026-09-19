@@ -69,5 +69,5 @@ Python exercises and scripts created while developing my programming and test au
 
 LinkedIn: [Cherelyn Alvarez](https://www.linkedin.com/in/cherelyn-alvarez/)
 
-Email: [cherelynsalvarez@gmail.com]
+Email: [Cherelyn Alvarez](cherelynsalvarez@gmail.com)
 
