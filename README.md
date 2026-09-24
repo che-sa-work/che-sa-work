@@ -41,7 +41,7 @@ Git · GitHub · CI/CD
 
 ### 📂 QA Portfolio
 
-🔹 [Manual Testing Portfolio](#)
+🔹 [Manual Testing Portfolio](https://github.com/che-sa-work/Manual-Testing-Portfolio)
 
 Test plans, test scenarios, test cases, defect reports, and test summary documentation.
 
