@@ -34,7 +34,7 @@ Jira · Azure DevOps · Xray
 Playwright · Selenium · Cypress
 
 **Languages:**
-JavaScript · TypeScript · Python · JSON · XML
+JavaScript · TypeScript · JSON · XML
 
 **Development & CI/CD:**
 Git · GitHub · CI/CD
