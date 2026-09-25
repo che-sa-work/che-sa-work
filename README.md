@@ -45,7 +45,7 @@ Git · GitHub · CI/CD
 
 Test plans, test scenarios, test cases, defect reports, and test summary documentation.
 
-🔹 [API Testing with Postman](#)
+🔹 [API Testing with Postman](https://github.com/che-sa-work/API-Testing-with-Postman)
 
 API request/response validation, positive and negative testing, status-code validation, authentication, and integration testing.
 
